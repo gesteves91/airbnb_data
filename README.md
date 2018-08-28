@@ -3,6 +3,8 @@ This repo contains data from two collections of Airbnb public data. One is inspi
 
 This data is emphasized in the dissertation produced by Geanderson in which gave birth to the PROMISE framework.
 
+The regions selected by the study were: United States -> Chicago, New York and Los Angeles. Europe -> Berlin, London and Paris. Asia -> Honk Kong. Australia -> Sydney. Brazil -> Belo Horizonte, São Paulo, Rio de Janeiro, Fortaleza, Porto Alegre and Salvador. 
+
 # Airbnb Public Data (listings):
 
 ## US
@@ -28,5 +30,5 @@ This data is emphasized in the dissertation produced by Geanderson in which gave
 
 ## Brazil
 
- * [Brazil Region]() Brazil)
+ * [Brazil Region](https://github.com/gesteves91/airbnb_data/blob/master/brazil.csv) Brazil)
 
