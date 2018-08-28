@@ -30,5 +30,5 @@ The regions selected by the study were: United States -> Chicago, New York and L
 
 ## Brazil
 
- * [Brazil Region](https://github.com/gesteves91/airbnb_data/blob/master/brazil.csv) Brazil main cities)
+ * [Brazil Region](https://github.com/gesteves91/airbnb_data/blob/master/brazil.csv) (Brazil main cities)
 
