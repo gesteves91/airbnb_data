@@ -16,19 +16,19 @@ The regions selected by the study were: United States -> Chicago, New York and L
 
 ## Europe
 
- * [EU Region](http://insideairbnb.com/berlin/) Berlin)
+ * [EU Region](http://insideairbnb.com/berlin/) (Berlin)
  * [EU Region](http://insideairbnb.com/london/) (London)
  * [EU Region](http://insideairbnb.com/new-york-city/) (Paris)
 
 ## Asia
 
- * [Asia Region](http://insideairbnb.com/hong-kong/) Hong Kong)
+ * [Asia Region](http://insideairbnb.com/hong-kong/) (Hong Kong)
  
 ## Australia
 
- * [Australia Region](http://insideairbnb.com/sydney/) Sydney)
+ * [Australia Region](http://insideairbnb.com/sydney/) (Sydney)
 
 ## Brazil
 
- * [Brazil Region](https://github.com/gesteves91/airbnb_data/blob/master/brazil.csv) Brazil)
+ * [Brazil Region](https://github.com/gesteves91/airbnb_data/blob/master/brazil.csv) Brazil main cities)
 
